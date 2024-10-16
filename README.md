@@ -16,3 +16,17 @@ Una lista:
      -  Importante
      -  Recortar
 -3. Tercer paso
+## Mas cositas
+Enlace a [la web de kernel](https://kernel.org)
+
+Codigo:
+
+-Esto es 'ISERT INTO'en fomati inline.
+- Lo siguiente es un bloque de código:
+
+``` 
+CREATE TABLE GATITO (
+cabeza VARCHAR(255),
+patitas INT
+);
+```
