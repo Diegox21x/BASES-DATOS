@@ -1,6 +1,6 @@
 # Bases-datos
 Esta es la descripción del proyecto
-![La mejo imagen de linux](Descargas-gato.jpg)
+![La mejo imagen de linux](gato.jpeg)
 
 ## Sección
 Una lista:
