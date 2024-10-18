@@ -1,6 +1,7 @@
 # Bases-datos
 Esta es la descripción del proyecto
 
+Esto esta echo con nano
 
 ![La mejo imagen de linux](gato.jpeg)
 
